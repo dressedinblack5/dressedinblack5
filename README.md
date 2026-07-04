@@ -23,6 +23,7 @@ I enjoy transforming ideas into real-world software, designing maintainable arch
 My projects include:
 - **openaxe**: TUI/CLI AI coding assistant with 15+ LLM providers (Anthropic, OpenAI, Google, etc.) and advanced session management
 - **attack-shark-x11-electron**: USB protocol reverse engineering project with 145 tests
+- **rk-r65**: QMK firmware development for Royal Kludge R65 mechanical keyboard
 - **tapitoCAM**: TP-Link Tapo Camera RTSP client for Linux with multi-camera control center
 
 ---
@@ -36,7 +37,7 @@ My projects include:
 - **AI/ML:** OpenAI, Anthropic, Google, Groq, Ollama, Claude API
 - **Reverse Engineering:** USB protocol analysis, C++/Rust system programming
 - **Security:** Security-first development, plugin permission systems
-- **Platforms:** Linux, macOS, Windows
+- **Platform:** Linux
 
 ---
 
