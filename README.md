@@ -49,13 +49,4 @@ My projects include:
 - **Open Source:** Contributing to development tools, building community platforms, and sharing knowledge
 
 ---
-
-### 📌 Featured Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=openaxe&theme=tokyonight)](https://github.com/dressedinblack5/openaxe)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=attack-shark-x11-electron&theme=tokyonight)](https://github.com/dressedinblack5/attack-shark-x11-electron)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=rk-r65&theme=tokyonight)](https://github.com/dressedinblack5/rk-r65)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=tapitoCAM&theme=tokyonight)](https://github.com/dressedinblack5/tapitoCAM)
+username=dressedinblack5&repo=tapitoCAM&theme=tokyonight)](https://github.com/dressedinblack5/tapitoCAM)
