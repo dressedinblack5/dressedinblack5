@@ -16,34 +16,37 @@
 
 ---
 
-Backend Developer focused on building scalable APIs and server-side applications using Node.js and NestJS.
+Backend Developer and AI Agent Orchestrator focused on building scalable systems and reverse engineering complex protocols.
 
-I enjoy transforming ideas into real-world software, designing maintainable architectures, and creating solutions that solve practical problems.
+I enjoy transforming ideas into real-world software, designing maintainable architectures, and creating solutions that solve practical problems. I use AI as a development tool to accelerate workflows while keeping full control over implementation, architecture, and decision-making.
 
-I use AI as a development tool to accelerate workflows while keeping full control over implementation, architecture, and decision-making.
+My projects include:
+- **openaxe**: TUI/CLI AI coding assistant with 15+ LLM providers (Anthropic, OpenAI, Google, etc.) and advanced session management
+- **attack-shark-x11-electron**: USB protocol reverse engineering project with 145 tests
+- **tapitoCAM**: TP-Link Tapo Camera RTSP client for Linux with multi-camera control center
 
 ---
 
 ## ⚙️ Stack
 
-- **Backend:** Node.js, NestJS, Express
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, Docker, GitHub Actions, CI/CD, Nginx
-- **Frontend (secondary):** React, TypeScript, TailwindCSS
-- **AI Tools:** OpenAI, Claude API, Context7
-- **Platforms:** macOS, Linux
+- **Backend:** Node.js, TypeScript, Go
+- **Databases:** PostgreSQL, SQLite, Drizzle ORM
+- **Tools:** Git, Docker, CI/CD (GitHub Actions), Bun, Effect v4
+- **Frontend:** SolidJS, Electron, Vue 3
+- **AI/ML:** OpenAI, Anthropic, Google, Groq, Ollama, Claude API
+- **Reverse Engineering:** USB protocol analysis, C++/Rust system programming
+- **Security:** Security-first development, plugin permission systems
+- **Platforms:** Linux, macOS, Windows
 
 ---
 
 ## 🎯 Current Focus
 
-- Building production-ready backend applications
-- Learning software architecture and system design
-- Exploring SaaS product development
-- Improving DevOps and cloud deployment skills
-- Writing clean, maintainable, and scalable code
-- Building community and knowledge sharing platforms
-- Contributing to agent orchestration frameworks
+- **Agent Orchestration:** Building intelligent CLI/TUI AI assistants with advanced provider support and session management
+- **Reverse Engineering:** USB protocol analysis, hardware communication, and system-level programming
+- **AI Integration:** Local LLM deployments, OpenAI-compatible APIs, and enterprise AI tools
+- **System Automation:** Task scheduling, workflow automation, and cross-platform development
+- **Open Source:** Contributing to development tools, building community platforms, and sharing knowledge
 
 ---
 
@@ -57,3 +60,9 @@ I use AI as a development tool to accelerate workflows while keeping full contro
 ### 📌 Featured Projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=openaxe&theme=tokyonight)](https://github.com/dressedinblack5/openaxe)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=attack-shark-x11-electron&theme=tokyonight)](https://github.com/dressedinblack5/attack-shark-x11-electron)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=rk-r65&theme=tokyonight)](https://github.com/dressedinblack5/rk-r65)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=tapitoCAM&theme=tokyonight)](https://github.com/dressedinblack5/tapitoCAM)
