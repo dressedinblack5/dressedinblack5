@@ -20,10 +20,16 @@ Backend Developer and AI Agent Orchestrator focused on building scalable systems
 I enjoy transforming ideas into real-world software, designing maintainable architectures, and creating solutions that solve practical problems.
 
 My projects include:
-- **openaxe**: TUI/CLI AI coding assistant with 15+ LLM providers (Anthropic, OpenAI, Google, etc.) and advanced session management
-- **attack-shark-x11-electron**: USB protocol reverse engineering project with 145 tests
-- **rk-r65**: QMK firmware development for Royal Kludge R65 mechanical keyboard
+- **openaxe**: Lean TUI/CLI AI coding assistant — Effect v4, security-first, 52% fewer packages, zero Electron
+- **attack-shark-x11-electron**: Cross-platform Electron + Vue 3 desktop app to configure Attack Shark X11 gaming mouse (DPI, macros, lighting)
+- **oax-tasker**: CI auto-fix bot — push, CI fails, auto-fix, repeat until green. Works with any AI coding assistant
+- **akai-widget**: AI chat widget for KDE Plasma 6 desktop — tiny QML frontend for opencode, under 1K lines
+- **unused-pkg-remover**: PySide6 GUI for reclaiming disk space on Arch Linux (orphans, cache, Flatpak, Steam junk) — published on AUR
+- **trading-assistant**: Intradía forex & gold analysis assistant — LLM-powered market intelligence with fundamental analysis, COT data, and daily game plans
 - **tapitoCAM**: TP-Link Tapo Camera RTSP client for Linux with multi-camera control center
+- **rk-r65**: QMK firmware development for Royal Kludge R65 mechanical keyboard
+- **ollama-gate**: Billable API proxy for local Ollama — OpenAI-compatible endpoint with usage tracking per API key
+- **bios-jailbreak**: UEFI BIOS unlocking via IFR opcode patching — firmware reverse engineering for Conectar Igualdad netbooks
 
 ---
 
@@ -46,3 +52,26 @@ My projects include:
 - **AI Integration:** Local LLM deployments, OpenAI-compatible APIs, and enterprise AI tools
 - **System Automation:** Task scheduling, workflow automation, and cross-platform development
 - **Open Source:** Contributing to development tools, building community platforms, and sharing knowledge
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dressedinblack5&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dressedinblack5&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=openaxe&theme=tokyonight)](https://github.com/dressedinblack5/openaxe)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=attack-shark-x11-electron&theme=tokyonight)](https://github.com/dressedinblack5/attack-shark-x11-electron)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=oax-tasker&theme=tokyonight)](https://github.com/dressedinblack5/oax-tasker)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=akai-widget&theme=tokyonight)](https://github.com/dressedinblack5/akai-widget)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=rk-r65&theme=tokyonight)](https://github.com/dressedinblack5/rk-r65)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dressedinblack5&repo=tapitoCAM&theme=tokyonight)](https://github.com/dressedinblack5/tapitoCAM)
