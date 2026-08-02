@@ -19,6 +19,16 @@ Backend Developer and AI Agent Orchestrator focused on building scalable systems
 
 I enjoy transforming ideas into real-world software, designing maintainable architectures, and creating solutions that solve practical problems.
 
+## 🚀 Featured: openaxe
+
+Lean TUI/CLI AI coding assistant — Effect v4, security-first, **52% fewer packages**, zero Electron (fork of [anomalyco/opencode](https://github.com/anomalyco/opencode)). 15+ LLM providers, native LSP client, plugin system, persistent sessions, all major platforms.
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/dressedinblack5/openaxe/dev/install.sh | sh
+```
+
+Then run `openaxe` in any project directory. [Try it →](https://github.com/dressedinblack5/openaxe)
+
 My projects include:
 - **openaxe**: Lean TUI/CLI AI coding assistant — Effect v4, security-first, 52% fewer packages, zero Electron (OpenCode fork)
 - **attack-shark-x11-electron**: Cross-platform Electron + Vue 3 desktop app to configure Attack Shark X11 gaming mouse (DPI, macros, lighting)
