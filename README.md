@@ -20,19 +20,19 @@ I enjoy transforming ideas into real-world software, designing maintainable arch
 
 My projects include:
 - **openaxe**: Lean TUI/CLI AI coding assistant — Effect v4, security-first, Bun, zero Electron (OpenCode fork). 13 packages, 1800+ source files, custom LSP, MCP, ACP protocols
-- **trading-assistant**: Scalping Forex & Gold analysis assistant — LLM-powered market intelligence with fundamental analysis, COT data, and daily game plans. FastAPI, SQLAlchemy, APScheduler, Telegram bot
+- **rk-r65**: QMK firmware development for Royal Kludge R65 mechanical keyboard. C, QMK, via/iso keymaps
 - **attack-shark-x11-electron**: Cross-platform Electron + Vue 3 desktop app to configure Attack Shark X11 gaming mouse (DPI, macros, lighting). USB HID driver, WebHID fallback
-- **bios-jailbreak**: UEFI BIOS unlocking via IFR opcode patching — firmware reverse engineering for Conectar Igualdad netbooks. UEFI, IFR, Python
-- **oax-tasker**: CI auto-fix bot — push, CI fails, auto-fix, repeat until green. Works with any AI coding assistant. Bash, GitHub Actions
 - **holi-frp**: Motorola bootloader unlock & FRP recovery wizard — stateless guided flow for bangkk/XT2347-1, serial allowlists, owner confirmation gates. Python, PySide6, rich
-- **ollama-gate**: Billable API proxy for local Ollama — OpenAI-compatible endpoint with usage tracking per API key. FastAPI, stripe
 - **tapitoCAM**: TP-Link Tapo Camera RTSP client for Linux with multi-camera control center. PySide6, ONVIF, RTSP
 - **unused-pkg-remover**: PySide6 GUI for reclaiming disk space on Arch Linux (orphans, cache, Flatpak, Steam junk) — published on AUR. uv, PySide6
+- **trading-assistant**: Scalping Forex & Gold analysis assistant — LLM-powered market intelligence with fundamental analysis, COT data, and daily game plans. FastAPI, SQLAlchemy, APScheduler, Telegram bot
 - **akai-widget**: AI chat widget for KDE Plasma 6 desktop — tiny QML frontend for opencode, under 1K lines. CMake, KDE Plasma 6
-- **rk-r65**: QMK firmware development for Royal Kludge R65 mechanical keyboard. C, QMK, via/iso keymaps
+- **bios-jailbreak**: UEFI BIOS unlocking via IFR opcode patching — firmware reverse engineering for Conectar Igualdad netbooks. UEFI, IFR, Python
 - **scriptOS**: Windows ISO customization toolkit — winutil fork, Hugo docs. PowerShell, Hugo
 - **bug-bounty**: Security research workspace — recon automation, IDOR/GraphQL playbooks, safety compliance. Bash, Python
+- **oax-tasker**: CI auto-fix bot — push, CI fails, auto-fix, repeat until green. Works with any AI coding assistant. Bash, GitHub Actions
 - **my-django-project**: Django web application scaffold. Django, PostgreSQL
+- **ollama-gate**: Billable API proxy for local Ollama — OpenAI-compatible endpoint with usage tracking per API key. FastAPI, stripe
 
 ---
 
@@ -56,30 +56,3 @@ My projects include:
 - **System Automation:** CI auto-fix (oax-tasker), task scheduling, workflow automation, cross-platform development
 - **Security Research:** Bug bounty automation, vulnerability playbooks, safety compliance
 - **Open Source:** Contributing to development tools, building community platforms, sharing knowledge
-
----
-
-## 📁 Project Index
-
-All projects live under `/home/dressedinblack/Projects/`:
-
-| Project | Language | Description | Status |
-|---------|----------|-------------|--------|
-| openaxe | TypeScript/Effect | AI agent CLI/TUI (OpenCode fork) | 🟢 Active |
-| trading-assistant | Python | Forex/Gold LLM trading assistant | 🟢 Active |
-| attack-shark-x11-electron | TypeScript/Vue 3 | Gaming mouse configurator | 🟢 Active |
-| bios-jailbreak | Python/C | UEFI BIOS unlocking (Conectar Igualdad) | 🟢 Active |
-| oax-tasker | Bash | CI auto-fix bot | 🟢 Active |
-| holi-frp | Python | Motorola bootloader unlock/FRP recovery | 🟢 Active |
-| ollama-gate | Python | Ollama API proxy with billing | 🟡 Maintenance |
-| tapitoCAM | Python | Tapo camera RTSP client (PySide6) | 🟢 Active |
-| unused-pkg-remover | Python | Arch Linux disk cleanup GUI (AUR) | 🟢 Active |
-| akai-widget | QML/C++ | KDE Plasma 6 AI chat widget | 🟢 Active |
-| rk-r65 | C/QMK | RK65 keyboard firmware | 🟢 Active |
-| scriptOS | PowerShell | Windows ISO toolkit (WinUtil fork) | 🟢 Active |
-| bug-bounty | Bash/Python | Security research workspace | 🟢 Active |
-| my-django-project | Python/Django | Web app scaffold | 🔴 Inactive |
-
----
-
-**Status Legend:** 🟢 Active · 🟡 Maintenance · 🔴 Inactive
