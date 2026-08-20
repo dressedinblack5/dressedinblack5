@@ -30,9 +30,6 @@ My projects include:
 - **bios-jailbreak**: UEFI BIOS unlocking via IFR opcode patching — firmware reverse engineering for Conectar Igualdad netbooks. UEFI, IFR, Python
 - **scriptOS**: Windows ISO customization toolkit — winutil fork, Hugo docs. PowerShell, Hugo
 - **bug-bounty**: Security research workspace — recon automation, IDOR/GraphQL playbooks, safety compliance. Bash, Python
-- **oax-tasker**: CI auto-fix bot — push, CI fails, auto-fix, repeat until green. Works with any AI coding assistant. Bash, GitHub Actions
-- **my-django-project**: Django web application scaffold. Django, PostgreSQL
-- **ollama-gate**: Billable API proxy for local Ollama — OpenAI-compatible endpoint with usage tracking per API key. FastAPI, stripe
 
 ---
 
