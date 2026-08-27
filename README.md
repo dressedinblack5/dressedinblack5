@@ -41,10 +41,10 @@ My projects include:
 - **Frontend:** SolidJS, Electron, Vue 3, QML, PySide6
 - **Reverse Engineering:** USB protocol analysis, UEFI/IFR, QMK firmware, C/C++/Rust system programming
 - **Security:** Security-first development, plugin permission systems, bug bounty automation
-- **Platform:** Linux (Arch), KDE Plasma 6
+- **Platform:** Linux (Arch)
 
 ---
 
 ## 🎯 Current Set
 
-Ryzen 5 4600G (6C/12T) @ 4.5GHz + RX 580 8GB | 16GB @ 3600MHz RAM | B450M DS3H V2 | CachyOS 7.2.0
+Ryzen 5 4600G (6C/12T) @ 4.5GHz + Asus RX 580 OC 8GB | Kingston Fury Beast 16GB @ 3600MHz RAM | B450M DS3H V2 | systemdboot + CachyOS 7.2.0 + Wayland + KDE Plasma 6 | scx_cake Scheduler
