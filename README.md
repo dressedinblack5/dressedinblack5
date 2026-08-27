@@ -45,11 +45,6 @@ My projects include:
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Set
 
-- **Agent Orchestration:** Building intelligent CLI/TUI AI assistants with advanced provider support and session management (openaxe)
-- **Reverse Engineering:** USB protocol analysis, hardware communication, UEFI/BIOS, QMK firmware
-- **AI Integration:** Local LLM deployments (Ollama), OpenAI-compatible APIs, enterprise AI tools
-- **System Automation:** CI auto-fix (oax-tasker), task scheduling, workflow automation, cross-platform development
-- **Security Research:** Bug bounty automation, vulnerability playbooks, safety compliance
-- **Open Source:** Contributing to development tools, building community platforms, sharing knowledge
+Ryzen 5 4600G (6C/12T) @ 4.5GHz + RX 580 8GB | 16GB @ 3600MHz RAM | B450M DS3H V2 | CachyOS 7.2.0
