@@ -47,4 +47,4 @@ My projects include:
 
 ## 🎯 Current Set
 
-Ryzen 5 4600G (6C/12T) @ 4.5GHz + Asus RX 580 OC 8GB | Kingston Fury Beast 16GB @ 3600MHz RAM | B450M DS3H V2 | systemdboot + CachyOS 7.2.0 + Wayland + KDE Plasma 6 | scx_cake Scheduler
+Ryzen 5 4600G (6C/12T) @ 4.5GHz + Asus RX 580 OC 8GB | Kingston Fury Beast 16GB @ 3600MHz | B450M DS3H V2 | systemdboot + CachyOS 7.2.0 + Wayland + KDE Plasma 6 | scx_cake SchedExt
