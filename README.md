@@ -53,31 +53,3 @@ My projects include:
 ## 🎯 Current Set
 
 Ryzen 5 4600G (6C/12T) @ 4.5GHz + Asus RX 580 OC 8GB | Kingston Fury Beast 16GB @ 3600MHz | B450M DS3H V2 | systemdboot + CachyOS 7.2.0 + Wayland + KDE Plasma 6 | scx_cake SchedExt
-
----
-
-## 📁 Project Index
-
-All projects live under `/home/dressedinblack/Projects/`:
-
-| Project | Language | Description | Status |
-|---------|----------|-------------|--------|
-| openaxe | TypeScript/Effect | AI agent CLI/TUI (OpenCode fork) | 🟢 Active |
-| qwispr | TypeScript/Python | Quantum code intelligence CLI + MCP (QAOA/VQE/Grover/QWalk) | 🟢 Active |
-| trading-assistant | Python | Forex/Gold LLM trading assistant | 🟢 Active |
-| attack-shark-x11-electron | TypeScript/Vue 3 | Gaming mouse configurator | 🟢 Active |
-| bios-jailbreak | Python/C | UEFI BIOS unlocking (Conectar Igualdad) | 🟢 Active |
-| oax-tasker | Bash | CI auto-fix bot | 🟢 Active |
-| holi-frp | Python | Motorola bootloader unlock/FRP recovery | 🟢 Active |
-| ollama-gate | Python | Ollama API proxy with billing | 🟡 Maintenance |
-| tapitoCAM | Python | Tapo camera RTSP client (PySide6) | 🟢 Active |
-| unused-pkg-remover | Python | Arch Linux disk cleanup GUI (AUR) | 🟢 Active |
-| akai-widget | QML/C++ | KDE Plasma 6 AI chat widget | 🟢 Active |
-| rk-r65 | C/QMK | RK65 keyboard firmware | 🟢 Active |
-| scriptOS | PowerShell | Windows ISO toolkit (WinUtil fork) | 🟢 Active |
-| bug-bounty | Bash/Python | Security research workspace | 🟢 Active |
-| my-django-project | Python/Django | Web app scaffold | 🔴 Inactive |
-
----
-
-**Status Legend:** 🟢 Active · 🟡 Maintenance · 🔴 Inactive
