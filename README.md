@@ -34,6 +34,7 @@ My projects include:
 - **scriptOS**: Windows ISO customization toolkit — winutil fork, Hugo docs. PowerShell, Hugo
 - **bug-bounty**: Security research workspace — recon automation, IDOR/GraphQL playbooks, safety compliance. Bash, Python
 - **my-django-project**: Django web application scaffold. Django, PostgreSQL
+- **gh-followback**: GitHub follow-back checker — list who you follow that doesn't follow back, optional unfollow. Bash, GitHub CLI
 
 ---
 
